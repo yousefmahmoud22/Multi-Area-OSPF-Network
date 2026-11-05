@@ -12,6 +12,10 @@ The network consists of multiple interconnected routers distributed across four 
 
 The main objective is to understand and implement dynamic routing, inter-area communication, and efficient IP addressing in a multi-area network environment.
 
+## 🖥️ Network Topology
+
+![Multi-Area OSPF Network Topology](Network-Topology.png)
+
 ## 🏗️ Network Architecture
 
 The network is divided into four OSPF areas:
