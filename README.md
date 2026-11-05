@@ -76,6 +76,16 @@ Connectivity is also tested using ICMP (Ping) between end devices in different O
 - Understand inter-area routing.
 - Develop practical Cisco IOS configuration skills.
 - Test and troubleshoot network connectivity.
+## 📊 OSPF Verification
+
+### OSPF Neighbor Relationship
+![OSPF Neighbor](ospf-neighbor.png)
+
+### OSPF Routing Table
+![OSPF Routing Table](ospf-routing-table.png)
+
+### End-to-End Connectivity
+![Connectivity Test](end-to-end-connectivity.png)
 
 ## 💻 Simulation Environment
 
